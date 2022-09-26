@@ -1,5 +1,5 @@
 /**
- * Web application
+ * Web application *
  */
 const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/ericyy_Dallas/guestbook';
 const guestbook = {
